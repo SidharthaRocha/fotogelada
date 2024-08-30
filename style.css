@@ -1,0 +1,272 @@
+
+
+header{
+    display: flex;
+    
+}
+
+/* cabeçalho */
+
+
+
+
+
+
+
+#login{
+    width: 12vw;
+    height:3vw;
+    border-radius: 10px;
+    color: white;
+    background-color: #161616;
+    margin-left: 1300px;
+    margin-top: 20px;
+}
+
+
+
+#logo{
+color: #161616;
+font-family: "Concert One", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 2vw;
+height: 2vw;
+}
+
+
+#formulario{
+    display: none;
+    
+}
+
+#home{
+    text-align: center;
+    align-items: center;
+    font-size: 1.5vw;
+}
+
+
+.like{
+    margin-left: 10px;
+    cursor: pointer;
+}
+.coment{
+    margin-left:-50px;
+}
+
+#comentary{
+    margin-left: 200px;
+}
+.btn-hearth{
+    margin-left: -60px;
+    font-size: 26px;
+    margin-top: -2px;
+}
+
+.curtida{
+    margin-left: -100px;
+}
+
+.numero{
+    margin-left: 80px;
+    font-size: 25px;
+}
+
+.rede-social{
+    
+    margin-left: 600px;
+   float: left;
+   margin-top: -60px;
+   padding-left: 160px;
+   align-items: center;
+   
+}
+
+.emoji{
+    margin-left: 40px;
+}
+
+
+
+
+.galeria{
+    display: grid;
+    gap: 0.5rem;
+   
+}
+
+.imgGaleria{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+
+.container{
+ 
+    width: 60;
+  
+  margin: 2rem auto;
+  align-items: center;
+  margin-left:200px;
+    
+}
+
+
+/* imagens da galeria */
+
+.item01 {
+    margin-top: -20px;
+    margin-left: -220px;
+    width: 1330px;
+ 
+}
+.item02 {
+    margin-top: 10px;
+    height: 300px;
+    width:680px;
+    
+    margin-left: -220px;
+}
+.item03 {
+    margin-top: -315px;
+    margin-left:470px;
+    width: 640px;
+    height: 300px;
+    
+ 
+}
+.item04 {
+    margin-top: -1230px;
+    margin-left: 1130px;
+    width: 510px;
+    height: 1210px;
+}
+.item05 {
+    margin-top: -10px;
+    width: 420px;
+    margin-left: -213px;
+    
+    height: 820px;
+}
+.item06 {
+    margin-top: -834px;
+    margin-left:224px;
+    height: 430px;
+    width: 1413px;
+
+   
+}
+.item07 {
+    margin-top: -390px;
+    height: 364px;
+    width: 670px;
+   
+    margin-left: 223px;
+}
+.item08 {
+    margin-top: -390px;
+    height: 360px;
+    width:670px;
+    margin-left: 963px;
+    
+}
+
+
+/* footer */
+
+
+footer{
+    background-color: #000000f9;
+    color: white;
+    margin-top: -9%;
+    height:70%;
+    
+   
+    
+}
+
+.fotografia{
+    font-size: 2vw;
+    text-align: center;
+    margin-left: -86%;
+    margin-top: 10%;
+   
+}
+
+article{
+    height:120px;
+    margin: 0%;
+    
+    
+}
+
+
+
+
+.galeria{
+    display: grid;
+    position: relative;
+    
+    
+  
+}
+
+.copyright{
+ 
+    margin-top: -50px;
+    margin-left: 840px;
+  
+    font-size:20px;
+   
+}
+
+.rede-social{
+    margin-top: -4%;
+    justify-content: space-between;
+   
+}
+.copy{
+    margin-top: -25px;
+}
+.icone{
+    background-color: #0000005f;
+    width: 150px;
+    position: absolute;
+    margin-top: -35px;
+    display: flex;
+   
+    
+  
+   
+
+}
+
+.fotografia{
+color: #ffffff;
+font-family: "Concert One", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+
+
+#photo{
+padding: 10px;
+margin-left: -2%;
+font-size:2vw;
+}
+
+#gelada{
+    margin-top: -54px;
+    margin-left: -4%;
+    font-size: 2vw;
+    
+}
+
+
+.grand-ipe{
+    display: flex;
+}
