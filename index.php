@@ -25,6 +25,7 @@ if(empty($_SESSION)){
     <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="login.css">
 <link rel="stylesheet" href="modalbot.css">
+<link rel="stylesheet" href="galeria.css">
  
    
 
